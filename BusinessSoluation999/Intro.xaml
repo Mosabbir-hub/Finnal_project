@@ -30,8 +30,8 @@
         </Grid>
         <Grid HorizontalAlignment="Left" Height="408.526" Margin="628.123,1.874,0,0" VerticalAlignment="Top" Width="165.477" Background="#FFFAF4F4">
             <Label Content="WELCOME" FontSize="18" FontStyle="Italic" FontWeight="Bold"  HorizontalAlignment="Left" Height="53.572" Margin="0,26.19,0,0" VerticalAlignment="Top" Width="145.477" Background="#FFFAF4F4"/>
-            <Label Content="Company Name: The Newbies" FontStyle="Italic" FontSize="11" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,100,0,0" Height="29" Width="155"/>
-            <Label Content="Raihan Uddin Sir" FontSize="12" FontStyle="Italic" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,155,0,0" Height="30"/>
+            <Label Content="Company Name:Digital Business Solution" FontStyle="Italic" FontSize="11" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,100,0,0" Height="29" Width="155"/>
+            <Label Content="Tanvir Ahmed" FontSize="12" FontStyle="Italic" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,155,0,0" Height="30"/>
             <Label Content="CEO:" FontSize="12" FontStyle="Italic" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,129,0,0" Width="46"/>
         </Grid>
 

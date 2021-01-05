@@ -13,7 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace BusinessSoluation999
+namespace DigitalBusinessSolution
 {
     /// <summary>
     /// Interaction logic for userLogin.xaml
@@ -40,7 +40,7 @@ namespace BusinessSoluation999
             String name = uName.Text;
             String pass = uPass.Password;
 
-            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-43D7CPC\SQLEXPRESS;Initial Catalog=BusinessSoluation999;Integrated Security=True");
+            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-43D7CPC\SQLEXPRESS;Initial Catalog=DigitalBusinessSolution;Integrated Security=True");
             con.Open();
             try
             {
