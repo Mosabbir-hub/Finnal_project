@@ -1,0 +1,16 @@
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BUSINESS SOLUTION.csprojAssemblyReference.cache
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin1.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin2.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin3.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BUSINESS SOLUTION.csproj.GenerateResource.cache
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BUSINESS SOLUTION.csproj.CoreCompileInputs.cache
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
