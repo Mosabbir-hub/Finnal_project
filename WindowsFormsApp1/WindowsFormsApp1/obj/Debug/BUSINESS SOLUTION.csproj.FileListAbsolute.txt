@@ -14,3 +14,13 @@ E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pd
 E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
 E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.manger1.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.employee1.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.employee2.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.employee3.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addproduct.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.product1.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.deleteproduct.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.product2.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Employee5.resources
+E:\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Employee6.resources

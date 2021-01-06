@@ -10,32 +10,31 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form2 : Form
+    public partial class manger1 : Form
     {
-        public Form2()
+        public manger1()
         {
             InitializeComponent();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            Form3 ss = new Form3();
-            ss.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            manger1 ss = new manger1();
+            employee1 ss = new employee1();
             ss.Show();
+        }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            product1 ss = new product1();
+            ss.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Employee5 ss = new Employee5();
+            product2 ss = new product2();
             ss.Show();
         }
     }

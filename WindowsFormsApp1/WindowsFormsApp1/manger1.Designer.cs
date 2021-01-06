@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp1
 {
-    partial class Form2
+    partial class manger1
     {
         /// <summary>
         /// Required designer variable.
@@ -36,62 +36,58 @@
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(141, 114);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(42, 29);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(262, 47);
+            this.button1.Size = new System.Drawing.Size(163, 43);
             this.button1.TabIndex = 0;
-            this.button1.Text = "MANAGER";
+            this.button1.Text = "Employee";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(141, 43);
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(42, 98);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(262, 47);
+            this.button2.Size = new System.Drawing.Size(163, 42);
             this.button2.TabIndex = 1;
-            this.button2.Text = "ADMIN";
+            this.button2.Text = "Customer";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(141, 245);
+            this.button3.Location = new System.Drawing.Point(42, 181);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(262, 41);
+            this.button3.Size = new System.Drawing.Size(163, 41);
             this.button3.TabIndex = 2;
-            this.button3.Text = "CUSTOMER";
+            this.button3.Text = "Product";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(141, 178);
+            this.button4.Location = new System.Drawing.Point(42, 246);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(262, 44);
+            this.button4.Size = new System.Drawing.Size(290, 40);
             this.button4.TabIndex = 3;
-            this.button4.Text = "EMPLOYEE";
+            this.button4.Text = "Category for product";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
-            // Form2
+            // manger1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(933, 450);
+            this.ClientSize = new System.Drawing.Size(800, 390);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.Name = "Form2";
-            this.RightToLeftLayout = true;
-            this.Text = "DASHBOARD";
+            this.Name = "manger1";
+            this.Text = "manger1";
             this.ResumeLayout(false);
 
         }
